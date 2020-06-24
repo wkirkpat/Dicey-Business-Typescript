@@ -1,0 +1,19 @@
+.die {
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#dice-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#diceSum {
+    display: flex
+}
